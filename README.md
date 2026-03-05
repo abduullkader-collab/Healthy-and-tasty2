@@ -1,25 +1,20 @@
-# Restaurant – Free Tailwind CSS Restaurant Landing Page
-#### Preview
+# Restaurant Website
 
- - [Demo](https://themewagon.github.io/restaurant/)
+A modern, fully-responsive restaurant website built with HTML, Tailwind CSS, and JavaScript. The website showcases a dining establishment offering an exceptional culinary experience with quality service, diverse menu options, and a welcoming atmosphere.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/restaurant/)
+## Features
 
-## Getting Started
+- **Hero Section**: Captivating headline with inviting tagline and call-to-action
+- **About Us**: Company story with key statistics (Years of Experience, Dishes in Menu, Customer Reviews, Happy Customers)
+- **Services**: Buffet Service, Food Delivery, and Cafeteria options
+- **Customer Reviews**: Testimonial carousel with star ratings
+- **Team Section**: Meet the culinary team (Head Chef, Kitchen Manager, Sous Chef, Culinary Director)
+- **Table Reservation**: User-friendly booking form
+- **FAQ**: Common questions about delivery, booking, hours, payments, and vegan options
+- **Contact Information**: Email, phone, address, and opening hours
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/restaurant.git
-```
+## Tech Stack
 
-## Author 
-```
-Design and code is completely written by FlyonUI and development team. 
-```
-
-## License
-
- - Design and Code is Copyright &copy; [FlyonUI](https://flyonui.com/)
- - Licensed cover under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
+- HTML5
+- Tailwind CSS
+- JavaScript
